@@ -63,7 +63,7 @@ These results are preliminary and are based on a small test set. They measure pr
 
 ## Repository Files
 
-- `Building_Crack_Severity_Prediction.ipynb` — data preparation, training, and evaluation notebook (use the actual uploaded notebook filename if different).
+- `building_crack_risk_prediction.ipynb` — data preparation, training, and evaluation notebook (use the actual uploaded notebook filename if different).
 - `crack_severity_model.pkl` — saved trained model pipeline.
 - `model_predictions.csv` — test-set predictions and probabilities.
 - `model_evaluation.csv` — saved classification metrics.
